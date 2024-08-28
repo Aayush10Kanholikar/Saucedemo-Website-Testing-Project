@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-28T21:16:18 IST" name="Default suite" finished-at="2024-08-28T21:17:51 IST" duration-ms="93018">
+    <groups>
+    </groups>
+    <test started-at="2024-08-28T21:16:18 IST" name="Default test" finished-at="2024-08-28T21:17:51 IST" duration-ms="93018">
+      <class name="com.qa.saucedemo.testcases.SaucedemoTestCases1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:18 IST" name="setup" finished-at="2024-08-28T21:16:22 IST" duration-ms="4702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitle()[pri:1, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:22 IST" name="loginPageTitle" finished-at="2024-08-28T21:16:22 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle -->
+        <test-method signature="logoImageTest()[pri:2, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:22 IST" name="logoImageTest" finished-at="2024-08-28T21:16:22 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoImageTest -->
+        <test-method signature="loginTest()[pri:3, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:22 IST" name="loginTest" finished-at="2024-08-28T21:16:25 IST" duration-ms="2999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="FilterTest()[pri:4, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:25 IST" name="FilterTest" finished-at="2024-08-28T21:16:34 IST" duration-ms="8434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FilterTest -->
+        <test-method signature="SidebtnTest()[pri:5, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:34 IST" name="SidebtnTest" finished-at="2024-08-28T21:16:42 IST" duration-ms="8351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SidebtnTest -->
+        <test-method signature="productDetailPage()[pri:6, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:42 IST" name="productDetailPage" finished-at="2024-08-28T21:16:47 IST" duration-ms="4572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDetailPage -->
+        <test-method signature="productPage()[pri:7, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:47 IST" name="productPage" finished-at="2024-08-28T21:16:51 IST" duration-ms="4269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productPage -->
+        <test-method signature="CartTest()[pri:8, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:51 IST" name="CartTest" finished-at="2024-08-28T21:16:54 IST" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartTest -->
+        <test-method signature="validateCartPage()[pri:9, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:54 IST" name="validateCartPage" finished-at="2024-08-28T21:16:59 IST" duration-ms="5244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCartPage -->
+        <test-method signature="cartpageTest()[pri:10, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:16:59 IST" name="cartpageTest" finished-at="2024-08-28T21:17:32 IST" duration-ms="33351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartpageTest -->
+        <test-method signature="OrderProducts()[pri:11, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:17:32 IST" name="OrderProducts" finished-at="2024-08-28T21:17:41 IST" duration-ms="9165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderProducts -->
+        <test-method signature="orderFinish()[pri:12, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:17:41 IST" name="orderFinish" finished-at="2024-08-28T21:17:46 IST" duration-ms="4742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderFinish -->
+        <test-method signature="LogoutTest()[pri:13, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:17:46 IST" name="LogoutTest" finished-at="2024-08-28T21:17:48 IST" duration-ms="2297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutTest -->
+        <test-method signature="InavlidTest()[pri:14, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:17:48 IST" name="InavlidTest" finished-at="2024-08-28T21:17:51 IST" duration-ms="2303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InavlidTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.saucedemo.testcases.SaucedemoTestCases1@5af3afd9]" started-at="2024-08-28T21:17:51 IST" name="tearDown" finished-at="2024-08-28T21:17:51 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.saucedemo.testcases.SaucedemoTestCases1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
